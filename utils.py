@@ -8,10 +8,6 @@ import torch.nn.functional as F
 from PIL import Image
 from skimage.measure import compare_psnr, compare_ssim
 
-from matplotlib import cm
-import matplotlib.pyplot as plt
-from math import exp
-
 
 if torch.cuda.is_available():
     print('GPU available!')
