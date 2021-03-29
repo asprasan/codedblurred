@@ -1,0 +1,6 @@
+@article{shedligeri2020video,
+  title={Video Reconstruction by Spatio-Temporal Fusion of Blurred-Coded Image Pair},
+  author={Shedligeri, Prasan and Pal, Abhishek and Mitra, Kaushik and others},
+  journal={arXiv preprint arXiv:2010.10052},
+  year={2020}
+}
